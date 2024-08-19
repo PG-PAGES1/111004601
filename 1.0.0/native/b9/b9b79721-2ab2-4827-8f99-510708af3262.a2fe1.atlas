@@ -1,0 +1,13 @@
+
+bg_lights.png
+size: 157,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_flare
+  rotate: false
+  xy: 2, 2
+  size: 153, 358
+  orig: 153, 358
+  offset: 0, 0
+  index: -1

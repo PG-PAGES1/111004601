@@ -1,0 +1,139 @@
+
+free_start.png
+size: 1844,1724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button_light/bl_vfx_c_add_00
+  rotate: false
+  xy: 1603, 225
+  size: 92, 97
+  orig: 326, 111
+  offset: 117, 8
+  index: -1
+button_light/bl_vfx_c_add_01
+  rotate: true
+  xy: 1207, 31
+  size: 134, 97
+  orig: 326, 111
+  offset: 96, 8
+  index: -1
+button_light/bl_vfx_c_add_02
+  rotate: false
+  xy: 1306, 27
+  size: 194, 97
+  orig: 326, 111
+  offset: 66, 8
+  index: -1
+button_light/bl_vfx_c_add_03
+  rotate: true
+  xy: 1700, 378
+  size: 270, 97
+  orig: 326, 111
+  offset: 28, 8
+  index: -1
+button_light/bl_vfx_c_add_04
+  rotate: false
+  xy: 1306, 126
+  size: 322, 97
+  orig: 326, 111
+  offset: 2, 8
+  index: -1
+button_light/bl_vfx_c_add_05
+  rotate: false
+  xy: 1272, 551
+  size: 324, 97
+  orig: 326, 111
+  offset: 2, 8
+  index: -1
+button_light/bl_vfx_c_add_06
+  rotate: true
+  xy: 1207, 167
+  size: 324, 97
+  orig: 326, 111
+  offset: 2, 8
+  index: -1
+button_light/bl_vfx_c_add_07
+  rotate: true
+  xy: 1306, 225
+  size: 324, 97
+  orig: 326, 111
+  offset: 2, 8
+  index: -1
+button_light/bl_vfx_c_add_08
+  rotate: true
+  xy: 1405, 225
+  size: 324, 97
+  orig: 326, 111
+  offset: 2, 8
+  index: -1
+button_light/bl_vfx_c_add_09
+  rotate: true
+  xy: 1504, 225
+  size: 324, 97
+  orig: 326, 111
+  offset: 2, 8
+  index: -1
+button_light/bl_vfx_c_add_10
+  rotate: true
+  xy: 1603, 324
+  size: 324, 95
+  orig: 326, 111
+  offset: 2, 9
+  index: -1
+fs_start_animation_unpack/bl_bg
+  rotate: false
+  xy: 2, 552
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+fs_start_animation_unpack/bl_pattern_add
+  rotate: false
+  xy: 544, 962
+  size: 756, 760
+  orig: 756, 760
+  offset: 0, 0
+  index: -1
+fs_start_animation_unpack/bl_vfx_a_add
+  rotate: false
+  xy: 1272, 650
+  size: 515, 220
+  orig: 515, 220
+  offset: 0, 0
+  index: -1
+fs_start_animation_unpack/bl_vfx_b_add
+  rotate: true
+  xy: 2, 10
+  size: 540, 620
+  orig: 540, 620
+  offset: 0, 0
+  index: -1
+fs_start_animation_unpack/bl_vfx_d_add
+  rotate: true
+  xy: 1083, 493
+  size: 467, 187
+  orig: 467, 187
+  offset: 0, 0
+  index: -1
+fs_start_role_unpack/bl_button
+  rotate: true
+  xy: 1083, 48
+  size: 443, 122
+  orig: 447, 125
+  offset: 2, 1
+  index: -1
+fs_start_role_unpack/gu
+  rotate: false
+  xy: 624, 2
+  size: 457, 958
+  orig: 457, 958
+  offset: 0, 0
+  index: -1
+fs_start_role_unpack/rwu
+  rotate: false
+  xy: 1302, 872
+  size: 540, 850
+  orig: 540, 850
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+jiangchi_spark.png
+size: 1940,1874
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+red_box/bnp_vfx_b_add_00
+  rotate: true
+  xy: 463, 2
+  size: 440, 457
+  orig: 506, 473
+  offset: 1, 1
+  index: -1
+red_box/bnp_vfx_b_add_01
+  rotate: true
+  xy: 2, 858
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_02
+  rotate: true
+  xy: 2, 350
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_03
+  rotate: false
+  xy: 463, 1413
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_04
+  rotate: false
+  xy: 971, 1413
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_05
+  rotate: true
+  xy: 1479, 1366
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_06
+  rotate: false
+  xy: 463, 952
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_07
+  rotate: false
+  xy: 971, 952
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_08
+  rotate: true
+  xy: 1479, 858
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_09
+  rotate: true
+  xy: 463, 444
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_10
+  rotate: false
+  xy: 924, 491
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_11
+  rotate: false
+  xy: 1432, 397
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_12
+  rotate: false
+  xy: 924, 30
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
+red_box/bnp_vfx_b_add_13
+  rotate: true
+  xy: 2, 1366
+  size: 506, 459
+  orig: 506, 473
+  offset: 0, 1
+  index: -1
